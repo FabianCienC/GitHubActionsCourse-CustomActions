@@ -5,6 +5,7 @@ runs:
   using: 'node16'
   main: 'main.js'
 
+### Basic to host s3 app 
 # name: 'Deploy to AWS S3'
 # description: 'Deploy a static website via AWS S3.'
 # inputs:
@@ -23,6 +24,4 @@ runs:
 #     description: 'The URL of the deployed website.'
 # runs:
 #   using: 'node16'
-#   # pre: 
 #   main: 'main.js'
-#   # post: 

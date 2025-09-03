@@ -7,6 +7,7 @@ function run() {
     core.notice("Hello from my custo JS action")
 }
 
+// Create an s3 host service
 // function run() {
 //   // 1) Get some input values
 //   const bucket = core.getInput('bucket', { required: true });
